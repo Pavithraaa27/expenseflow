@@ -56,17 +56,22 @@ bash ExpenseFlow/ │── frontend/ │── backend/ │── .gitignore �
 ## ⚙️ Installation & Setup  
 
 ### 1️⃣ Clone the repository  
-bash git clone https://github.com/Pavithraaa27/expenseflow.git cd expenseflow 
+git clone https://github.com/Pavithraaa27/expenseflow.git 
+cd expenseflow 
 
 ---
 
 ### 2️⃣ Install dependencies  
 
 Frontend:
-bash cd frontend npm install npm start 
+cd frontend
+npm install
+npm start 
 
 Backend:
-bash cd backend npm install npm start 
+cd backend
+npm install
+npm start 
 
 ---
 
@@ -74,7 +79,9 @@ bash cd backend npm install npm start
 
 Create a .env file in backend:
 
-env PORT=5000 DATABASE_URL=your_database_url JWT_SECRET=your_secret_key 
+env PORT=5000 
+DATABASE_URL=your_database_url
+JWT_SECRET=your_secret_key 
 
 ---
 
@@ -99,7 +106,7 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 ---
 
 ## 📌 Author  
-Akanksha Tiwari
+Pavithra Nair
 
 ---
 
