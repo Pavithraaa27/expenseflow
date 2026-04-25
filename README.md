@@ -56,7 +56,7 @@ bash ExpenseFlow/ │── frontend/ │── backend/ │── .gitignore �
 ## ⚙️ Installation & Setup  
 
 ### 1️⃣ Clone the repository  
-bash git clone https://github.com/your-username/expenseflow.git cd expenseflow 
+bash git clone https://github.com/Pavithraaa27/expenseflow.git cd expenseflow 
 
 ---
 
